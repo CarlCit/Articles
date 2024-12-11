@@ -1,8 +1,8 @@
 export default {
-  title: '动物的光合作用',
-  description: 'MEBTTE 的个人博客.',
-  origin: 'https://mebtte.com',
+  title: '武汉同学',
+  description: '武汉同学 的个人博客.',
+  origin: 'https://i.songlin.me',
   public_path: '',
   github_repository:
-    'https://github.com/mebtte/animal-photosynthesis',
+    'https://github.com/CarlCit/Articles',
 };
